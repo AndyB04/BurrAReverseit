@@ -1,0 +1,15 @@
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/bin/Debug/net6.0/intArray
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/bin/Debug/net6.0/intArray.deps.json
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/bin/Debug/net6.0/intArray.runtimeconfig.json
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/bin/Debug/net6.0/intArray.dll
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/bin/Debug/net6.0/intArray.pdb
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/obj/Debug/net6.0/intArray.csproj.AssemblyReference.cache
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/obj/Debug/net6.0/intArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/obj/Debug/net6.0/intArray.AssemblyInfoInputs.cache
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/obj/Debug/net6.0/intArray.AssemblyInfo.cs
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/obj/Debug/net6.0/intArray.csproj.CoreCompileInputs.cache
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/obj/Debug/net6.0/intArray.dll
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/obj/Debug/net6.0/refint/intArray.dll
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/obj/Debug/net6.0/intArray.pdb
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/obj/Debug/net6.0/intArray.genruntimeconfig.cache
+/Users/andy/CodeStack 22-23/ALL Combine/intArray/obj/Debug/net6.0/ref/intArray.dll
