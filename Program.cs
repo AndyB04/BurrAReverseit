@@ -8,7 +8,6 @@ bool playagain = true;
 while (playagain){
 Console.WriteLine("Hello Player lets play reverse it ");
 
-
 int[] intarray = { 1, 2 ,3, 4, 5};
 
 Console.WriteLine(intarray [4] );
